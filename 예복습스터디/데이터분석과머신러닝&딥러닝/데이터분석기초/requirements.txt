@@ -1,6 +1,6 @@
 jupyter
-numpy
 pandas
+numpy
 matplotlib
 seaborn
-scikit-learn
+plotly.express
